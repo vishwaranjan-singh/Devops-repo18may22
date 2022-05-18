@@ -12,5 +12,11 @@ public class operators {
 			= ((a > b) ? (a > c) ? a : c : (b > c) ? b : c);
 		System.out.println("Max of three numbers = "
 						+ result);
+
+	}
+	#added by prakash
+	public int sub()
+	{
+			return a-b;
 	}
 }
