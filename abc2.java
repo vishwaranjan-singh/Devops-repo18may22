@@ -13,4 +13,10 @@ public class operators {
 		System.out.println("Max of three numbers = "
 						+ result);
 	}
+	#added by vishwa
+	public void sum()
+	{
+		return a+b;
+		
+	}
 }
