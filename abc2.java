@@ -13,4 +13,10 @@ public class operators {
 		System.out.println("Max of three numbers = "
 						+ result);
 	}
+	
+	#added by vishwa for multiplication
+	public int mul()
+	{
+		return a*b;
+	}
 }
