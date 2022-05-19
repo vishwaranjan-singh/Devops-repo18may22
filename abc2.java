@@ -25,4 +25,10 @@ public class operators {
 	{
 		return a*b;
 	}
+	
+	#added by vishwa for multiplication
+	public int div()
+	{
+		return a%b;
+	}
 }
