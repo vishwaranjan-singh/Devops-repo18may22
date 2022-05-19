@@ -21,7 +21,7 @@ public class operators {
 	}
 	
 	#added by vishwa for multiplication
-	public int mul()
+	public int mulllll()
 	{
 		return a*b;
 	}
